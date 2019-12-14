@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import { Navbar, NavbarBrand } from 'reactstrap';
 import Menu from './components/MenuComponent';
+import Dishdetail from './components/DishdetailComponent'; 
 import { DISHES } from './shared/dishes';
 
 /*
